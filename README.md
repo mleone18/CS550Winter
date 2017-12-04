@@ -1,1 +1,1 @@
-![Link](CS550Winter/Github Quiz/README.md)
+![Link](Github Quiz/README.md)
