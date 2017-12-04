@@ -1,1 +1,1 @@
-[Link to Quiz folder](CS550Winter/Github Quiz/README.md)
+CS550Winter/Github Quiz/README.md
