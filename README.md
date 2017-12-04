@@ -1,1 +1,1 @@
-[Link](CS550Github Quiz/README.md)
+[Link](CS550/Github Quiz/README.md)
